@@ -1,3 +1,5 @@
+Instructions to run
+
 1. run "python3 cleaner.py"
 2. run "python3 weeker.py"
 
